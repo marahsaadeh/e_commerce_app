@@ -58,7 +58,6 @@ Includes at least **5+ screens**:
 
 * Firebase Auth (email/pass + Google sign-in)
 * Firestore Database (store user data)
-* Firebase Storage (optional for images)
 
 ### **✔ Cart System (Provider — State Management)**
 
