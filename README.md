@@ -113,7 +113,6 @@ lib/
 | Provider          | State management        |
 | Firebase Auth     | Login/Register          |
 | Firestore         | User data               |
-
 | SharedPreferences | Local simple storage    |
 | Sqflite           | Local products database |
 | FakeStore API     | Fetch product list      |
